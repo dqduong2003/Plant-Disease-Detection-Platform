@@ -4,5 +4,5 @@ Plant disease prediction model created using Convolutional Neural Network (CNN).
 \
 ## To run the model:
 1. Go to anaconda terminal and install tensorflow library
-```pip install tensorflow
+```pip install tensorflow```
 2. Run everything EXCEPT second code block (Prepare the dataset). It was used to split the image folders to training and validation.
